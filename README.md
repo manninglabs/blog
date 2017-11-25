@@ -8,3 +8,9 @@
 
 - build command: `hugo`
 - publish dir: `public`
+
+# Reference
+
+## Pickles Theme
+
+[Theme](`https://github.com/mismith0227/hugo_theme_pickles`)
