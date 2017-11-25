@@ -1,10 +1,10 @@
 # Running
 
-`hugo serve -D`
+`hugo server -t hugo_theme_pickles -w -D`
 
 # Hosting
 
 ## Netlify Settings
 
-- build command: `hugo_0.19`
+- build command: `hugo`
 - publish dir: `public`

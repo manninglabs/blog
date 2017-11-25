@@ -1,31 +1,12 @@
-title = "My New Hugo Site"
-baseURL = "https://example.com"
-languageCode = "en-us"
-theme = "ananke"
-themesDir = "themes"
 googleAnalytics = "UA-110200814-2"
 
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
-[params]
-  favicon = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
-  youtube = ""
-  github = ""
-  linkedin = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+name = "Pickles"
+license = "MIT"
+licenselink = "https://github.com/mismith0227/hugo_theme_pickles/blob/master/LICENSE.md"
+description = "Pickles is a modern, simple and beautiful Hugo theme"
+author = "Takuma Misumi"
+homepage = "https://pickles.work/"
+source_repo = "git@github.com:mismith0227/hugo_theme_pickles.git"
+tags = ["Responsive", "Blog", "Google analytics", "Disqus", "Clean", "Tags", "Minimal", "Minimalist", "Simple", "White", "Starter"]
+features = ["blog"]
+min_version = 0.19
