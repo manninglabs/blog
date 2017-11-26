@@ -1,5 +1,5 @@
 theme = "hugo_theme_pickles"
-baseurl = "https://blog.manninglabs.com"
+baseurl = "https://blog.manninglabs.com/"
 languageCode = "en-us"
 Title = "The Manning Labs Blog"
 
