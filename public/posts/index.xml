@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Manning Labs Blog</title>
+    <link>https://blog.manninglabs.com/posts/</link>
+    <description>Recent content in Posts on The Manning Labs Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2017 Manning Labs LLC</copyright>
+    <lastBuildDate>Sat, 25 Nov 2017 14:49:54 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.manninglabs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://blog.manninglabs.com/posts/hello/</link>
+      <pubDate>Sat, 25 Nov 2017 14:49:54 +0100</pubDate>
+      
+      <guid>https://blog.manninglabs.com/posts/hello/</guid>
+      <description>This is my post!</description>
+    </item>
+    
+  </channel>
+</rss>
