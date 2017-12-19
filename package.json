@@ -1,6 +1,6 @@
 {
-  "name": "learnflutter",
-  "version": "0.1.0",
+  "name": "blog",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
