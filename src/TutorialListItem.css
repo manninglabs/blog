@@ -1,0 +1,22 @@
+.tutorial-list-item {
+  margin: 50px 0px;
+}
+.tutorial-list-item .title {
+  font-weight: bold;
+}
+.tutorial-list-item .created {
+  color: #AAA;
+  font-size: 14px;
+}
+.tutorial-list-item .created a {
+  color: #AAA;
+  text-decoration: none;
+}
+.tutorial-list-item .created a:active {
+  color: #AAA;
+}
+.tutorial-list-item .created a:hover {
+  text-decoration: underline;
+}
+.tutorial-list-item .blurb {
+}
