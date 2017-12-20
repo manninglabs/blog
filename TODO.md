@@ -7,4 +7,4 @@
 
 # Improvements
 
-[ ] don't load mixpanel manually for each component! offer global mixpanel variable
+[ ] don't load mixpanel manually for each component! offer global mixpanel variable. context: https://github.com/neciu/react-mixpanel/issues/10
