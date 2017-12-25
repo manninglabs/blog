@@ -3,7 +3,7 @@ import './TutorialDetail.css';
 import posts from './posts';
 import ReactMarkdown from 'react-markdown';
 import mixpanel from 'mixpanel-browser';
-import ReactDisqusThread from 'react-disqus-thread';
+import ReactDisqusComments from 'react-disqus-comments';
 
 class TutorialDetail extends Component {
 
@@ -25,7 +25,7 @@ class TutorialDetail extends Component {
       <div>
         <h1>{ post.title }</h1>
         <ReactMarkdown source={ post.content } />
-        <ReactDisqusThread
+        <ReactDisqusComments
                 shortname="example"
                 identifier="something-unique-12345"
                 title="Example Thread"
